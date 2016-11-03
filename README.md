@@ -7,4 +7,4 @@ Here I'll put the contributions I do to phpBB or any Extention.
 
 Swedish Language packages for:
 
-	Upload Extentions
+- Upload Extentions
