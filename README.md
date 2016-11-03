@@ -1,2 +1,1 @@
-# phpBB
-My contribution to the phpBB
+# My contribution to the phpBB
